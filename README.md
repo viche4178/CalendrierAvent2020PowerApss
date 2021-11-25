@@ -19,6 +19,7 @@ Il est livré « tel quel » avec les astuces disponibles en cette fin d’anné
 
 
 # Télécharger
+Il existe plusieurs versions de l’application de calendrier de l’Avent avec des packs de contenu préinstallés :
 
 # Installation
 
