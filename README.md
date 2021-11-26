@@ -10,7 +10,7 @@ J’ai mis des exemples de liens web vers la chaine Microsoft France ainsi que d
 
 
 # Sources
-Les sources se trouvent [ici](https://github.com/viche4178/CalendrierAvent2020PowerApss/tree/main/App)
+Les sources se trouvent [ici](https://github.com/viche4178/CalendrierAventPowerapps/tree/main/App)
 
 # Installation
 Ci joint ([ici](https://github.com/viche4178/CalendrierAvent2020PowerApss/tree/main/Doc)) la doc d'installation (ne faites pas attention aux nombre de pages, il y a beaucoup d'imprim ecran)
